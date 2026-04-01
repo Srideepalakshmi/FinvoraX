@@ -55,7 +55,7 @@ Developed by: **Srideepalakshmi S**
 
 ## 🔗 Links
 - **Live Link**: 
-- **GitHub Link**: (https://github.com/Srideepa123/FinvoraX)
+- **GitHub Link**: (https://github.com/Srideepalakshmi/FinvoraX)
 - **Portfolio**: [Srideepalakshmi S Portfolio](https://tinyurl.com/Srideepalakshmi)
 
 ---
