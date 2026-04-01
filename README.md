@@ -61,6 +61,7 @@ Developed by: **Srideepalakshmi S**
 ---
 
 ## 📸 Screenshots
+<img width="1920" height="1080" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/717ac41f-e1e3-4610-b9ce-7882084ca4d3" />
 
 ---
 
