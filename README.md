@@ -54,7 +54,7 @@ Developed by: **Srideepalakshmi S**
 ---
 
 ## 🔗 Links
-- **Live Link**: 
+- **Live Link**: https://finvora-x.vercel.app/
 - **GitHub Link**: (https://github.com/Srideepalakshmi/FinvoraX)
 - **Portfolio**: [Srideepalakshmi S Portfolio](https://tinyurl.com/Srideepalakshmi)
 
