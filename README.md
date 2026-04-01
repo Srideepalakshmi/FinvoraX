@@ -54,15 +54,14 @@ Developed by: **Srideepalakshmi S**
 ---
 
 ## 🔗 Links
-- **Live Link**: [View Application on Vercel](https://finvora-x.vercel.app/) *(Add your actual link here after deployment!)*
-- **GitHub Link**: [Srideepa123/FinvoraX](https://github.com/Srideepa123/FinvoraX)
+- **Live Link**: 
+- **GitHub Link**: (https://github.com/Srideepa123/FinvoraX)
 - **Portfolio**: [Srideepalakshmi S Portfolio](https://tinyurl.com/Srideepalakshmi)
 
 ---
 
 ## 📸 Screenshots
-*(Insert high-resolution screenshots here after your final build)*
 
 ---
 
-> **Submission Note**: This application fulfills all frontend internship assignment requirements, demonstrating proficiency in React, performance optimization, and premium UI/UX design.
+>
