@@ -1,4 +1,4 @@
-# FinvoraX - Premium Financial Dashboard
+# FinvoraX - Financial Dashboard
 
 ## 🚀 Overview
 **FinvoraX** is a modern, high-performance financial intelligence dashboard architected for professional asset management. It focuses on clean data visualization, real-time analytics, and role-based security, providing users with a comprehensive view of their financial health.
